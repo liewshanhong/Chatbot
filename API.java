@@ -15,8 +15,8 @@ import com.wolfram.alpha.WASubpod;
 
 
 public class API {
-    private String key = "AIzaSyBI9hrJqmZDZOztA3n3E50CPE9cV8j8pgk";
-    private String appid= "VLJ58H-78UUTY2432";
+    private String key = "";
+    private String appid= "";
 
     public String translate(String s){
        try{
