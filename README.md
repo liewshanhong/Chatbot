@@ -35,8 +35,11 @@ We used Stanford's CoreNlp to ascertain the crux of the question so as to find a
 ###### INDIVIDUAL SECTION
 For the individual project, I have decided to use the Google Translate API and Wolfram Alpha API.
 
+###
+The individual project contains one new file called API.java. It holds the method for the Google Translate API and Wolfram API
+
 Google Translate API
-- This allowed the chatbot to translate to only one language (Simplified Chinese). 
+- This allows the chatbot to translate to only one language (Simplified Chinese). 
 
 
 Wolfram Alpha API
