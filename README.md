@@ -41,4 +41,5 @@ Google Translate API
 
 Wolfram Alpha API
 - This API carries most of the question asked to the chatbot as it holds the most information.
+
 ![Screen Shot 2022-04-04 at 00 05 46](https://user-images.githubusercontent.com/72040706/161490890-abf9389c-befd-4ea1-b451-5148e64b8a2b.png)
