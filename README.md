@@ -33,14 +33,10 @@ We used Stanford's CoreNlp to ascertain the crux of the question so as to find a
 <img width="1055" alt="Screen Shot 2022-03-19 at 20 29 50" src="https://user-images.githubusercontent.com/72040706/159146810-a0a80b48-7e15-479e-818c-a85f4d653a41.png">
 
 ###### INDIVIDUAL SECTION
-For the individual project, I have decided to use the Google Translate API and Wolfram Alpha API.
-
-###
-The individual project contains one new file called API.java. It holds the method for the Google Translate API and Wolfram API
+For the individual project, I have decided to use the Google Translate API and Wolfram Alpha API. This project contains one new file called API.java. It holds the methods for the Google Translate API and Wolfram API
 
 Google Translate API
 - This allows the chatbot to translate to only one language (Simplified Chinese). 
-
 
 Wolfram Alpha API
 - This API carries most of the question asked to the chatbot as it holds the most information.
