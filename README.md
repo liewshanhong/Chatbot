@@ -36,7 +36,7 @@ We used Stanford's CoreNlp to ascertain the crux of the question so as to find a
 For the individual project, I have decided to use the Google Translate API and Wolfram Alpha API.
 
 Google Translate API
-- This allowed the chatbot to translate to only one language. (Simplified Chinese)
+- This allowed the chatbot to translate to only one language (Simplified Chinese). 
 
 Wolfram Alpha API
 - This API carries most of the question asked to the chatbot as it holds the most information.
